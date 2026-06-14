@@ -150,13 +150,6 @@ Location: Mumbai, Maharashtra, India
 
 ---
 
-## Live Demo
-
-Add your GitHub Pages URL here:
-
-https://yourusername.github.io/aryan-singh-portfolio/
-
----
 
 ## License
 
