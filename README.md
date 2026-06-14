@@ -142,9 +142,9 @@ Mumbai, India
 
 Email: singharyan2715@gmail.com
 
-LinkedIn: www.linkedin.com/in/aryansingh
+LinkedIn: [www.linkedin.com/in/aryansingh](https://www.linkedin.com/in/aryan-singh-38bb0a1b6/)
 
-GitHub: github.com/aryansingh
+GitHub: www.github.com/prodaryan
 
 Location: Mumbai, Maharashtra, India
 
